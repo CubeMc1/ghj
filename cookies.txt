@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tickettool.xyz	TRUE	/	FALSE	1999999999	connect.sid	s%3ATYu6CORp_TjaxJ6HYNjk4NTI0MzQ3NTU1NjQzNDIy.XpdDFg.oHPATyM5h2zsu7nlxVg0FUekDkY
+
+                                                                 
